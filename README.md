@@ -52,5 +52,5 @@ I am passionate about building software applications.
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=a259ff)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxafinder)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxafinder)](https://git.io/streak-stats) -->
 
